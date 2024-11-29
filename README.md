@@ -1,2 +1,2 @@
-# notebook.github.io
+# notes
 My website
